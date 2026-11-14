@@ -1,7 +1,6 @@
 # 🤖 AI Video Monetizer — The Faceless Empire Blueprint
 # Complete AI Video → Automation → Monetization Pipeline
 
-> **The exact system that builds a passive income empire from AI-generated videos.**
 > From video generation to automatic posting to DM funnels to Gumroad checkout.
 > **Fully automated. Fully documented. Ready to deploy.**
 
@@ -213,7 +212,6 @@ See `GOOGLE_FREE_SETUP.md` for the free Google Workspace setup (no paid plan req
 ## ⚠️ Disclaimer
 
 This is a **business automation blueprint**. Results depend on:
-- Quality of AI-generated videos
 - Platform algorithm performance
 - Niche selection and audience resonance
 - Consistent execution
